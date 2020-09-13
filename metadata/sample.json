@@ -1,10 +1,10 @@
 {
-	  "$schema": "https://certs.jonaskasperjensen.com/assets/schema.json",
-    "created": "2020-01-01",
-    "description": "",
-    "id": "1",
-    "image": "https://www.jonaskasperjensen.com/images/1.png",
-    "materials": "Silkscreen paint base and interference paint on canvas.",
-    "name": "I Owe yoU IV/IV",
-    "size": "110 cm x 140 cm"
+  "$schema": "https://certs.jonaskasperjensen.com/assets/schema.json",
+  "created": "2020-01-01",
+  "description": "",
+  "id": "1",
+  "image": "https://www.jonaskasperjensen.com/images/1.png",
+  "materials": "Silkscreen paint base and interference paint on canvas.",
+  "name": "I Owe yoU IV/IV",
+  "size": "110 cm x 140 cm"
 }
