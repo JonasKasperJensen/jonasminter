@@ -1,0 +1,10 @@
+{
+  "$schema": "https://conventions.0xcert.org/87-asset-evidence.json",
+  "data": [
+    {
+      "path": [],
+      "nodes": [],
+      "values": []
+    }
+  ]
+}
