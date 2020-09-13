@@ -3,39 +3,39 @@
   "description": "A digital art assets by Jonas Kasper Jensen",
   "properties": {
     "$evidence": {
-      "description": "A URI pointing to the evidence JSON with data needed to certify this asset.",
+      "description": "Evidence",
       "type": "string"
     },
     "$schema": {
-      "description": "A path to JSON Schema definition file.",
+      "description": "JSON Schema",
       "type": "string"
     },
     "created": {
-      "description": "A date of creation.",
+      "description": "Created",
       "type": "string"
     },
     "description": {
-      "description": "A property that holds a detailed description of an asset.",
+      "description": "Description",
       "type": "string"
     },
     "id": {
-      "description": "A unique identifier.",
+      "description": "ID",
       "type": "string"
     },
     "image": {
-      "description": "A public property that can be a valid URI pointing to a resource with mime type image/* representing the asset to which this digital assets represents. Consider making any images at a width between 320 and 1080 pixels and aspect ratio between 1.91:1 and 4:5 inclusive.",
+      "description": "Image",
       "type": "string"
     },
     "materials": {
-      "description": "????",
+      "description": "Materials",
       "type": "string"
     },
     "name": {
-      "description": "A property that holds a name of an asset.",
+      "description": "Name",
       "type": "string"
     },
     "size": {
-      "description": "????",
+      "description": "Size",
       "type": "string"
     }
   },
