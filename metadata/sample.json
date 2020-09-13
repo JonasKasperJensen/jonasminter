@@ -1,5 +1,5 @@
 {
-  "$schema": "https://certs.jonaskasperjensen.com/assets/schema.json",
+  "$schema": "https://certs.jonaskasperjensen.com/schema.json",
   "created": "2020-01-01",
   "description": "",
   "id": "1",
