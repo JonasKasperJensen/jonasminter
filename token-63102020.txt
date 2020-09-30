@@ -1,0 +1,12 @@
+ID: 63102020
+Name: I Owe yoU IV/IV
+Description: This painting resembles a landscape that is somehow morphed and set up in a distorted grid. It was done during research in Artificial Intelligence and computer generated landscapes and this painting is an attempt to process the findings. The flower like symbols are interpretations of Merkle Trees.
+Image: https://github.com/JonasKasperJensen/jonasminter/blob/master/04.jpg
+Materials: silkscreen paint base and interference paint on canvas
+Size: 140 cm X 110 cm
+Created: 2020-01-10
+Receiver: 0x883beC2Cf93B832aeFD67E103372aFb0E1947383
+Network: Rinkeby
+Transaction: https://rinkeby.etherscan.io/tx/0xd8804c4a632956217b0e2b742c0a5b2fb271ef205e11f57b71c0da1a8b6cdd37
+Verify link: https://verify.0xcert.org/?assetId=63102020&ledgerId=0xaf87E5298751229e3F8AA31B2f9a85B3023B7eFd&network=2
+Created: Tue Sep 29 2020 13:26:44 GMT+0200 (Central European Summer Time)
